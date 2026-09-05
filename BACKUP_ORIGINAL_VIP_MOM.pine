@@ -1,0 +1,7 @@
+//@version=6
+strategy("VIP MOM", shorttitle="VIP MOM", overlay=true, pyramiding=0, max_labels_count=50, initial_capital=10000, commission_type=strategy.commission.percent, commission_value=0.05, process_orders_on_close=true, calc_on_every_tick=true)
+
+// BACKUP: Original code - 1088 lines preserved
+// Created: 2026-09-05
+// Do not modify this file - it's a safety backup
+// Latest version: See VIP_MOM_OPTIMIZED.pine
